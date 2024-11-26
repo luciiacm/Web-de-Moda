@@ -1,0 +1,78 @@
+/*Estilos para el cuerpo del texto*/
+ body {
+	background-color: #eee;
+}
+ 
+ header {
+	border-color: white;
+	background-color: #d0bfdf;
+	color: #fff;
+	text-align: center;
+	padding: 15px 20px;
+	font-family: emoji;
+	text-shadow: grey 2px 3px;
+	border-radius: 30px;
+	border-style: dotted;
+}
+
+/*Estilos para los encabezados*/
+ #titulo {
+	background-color: #e5d4f3;
+	color: #fff;
+	text-align: center;
+	margin-bottom: 0px 0px 15px 0px;
+}
+ .tituloSeccion {
+	background-color: #d0bfdf;
+	color: #fff;
+	padding: 10px;
+	border-radius: 20px;
+	border-style: dotted;
+}
+
+/*Estilos para la barra de navegación*/
+ #menuPrincipal {
+	background-color: #444;
+}
+ #menuPrincipal ul {
+	list-style: none;
+	padding: 0px;
+}
+ #menuPrincipal ul li {
+	display: inline;
+	padding: 0px 15px;
+}
+
+/*Estilos para los enlaces*/
+ .enlaceMenuPrincipal {
+	text-decoration: none;
+	color: #fff;
+	padding: 10px 20px;
+	text-shadow: grey 0px 0px;
+}
+
+/*Estilos para la sección principal*/
+ article {
+	border: 1px solid #ccc;
+	background-color: #fff;
+	margin-bottom: 10px;
+	padding: 10px;
+	border-radius: 30px;
+}
+
+/*Estilos para el pie de página*/
+ footer {
+	background-color: #d0bfdf;
+	color: #fff;
+	text-align: center;
+	margin-bottom: 20px;
+	padding: 10px;
+	border-radius: 20px;
+	border-style: dotted;
+}
+
+/* default hover effect */
+a:hover {
+  color: black;
+  background: white;
+}
