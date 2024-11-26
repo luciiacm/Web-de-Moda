@@ -76,3 +76,29 @@ a:hover {
   color: black;
   background: white;
 }
+
+/*-----Contacto-----*/
+#enlaces-legales {
+margin-top:30px
+}
+
+#enlaces-legales 
+a:hover{color:#7de88c}
+
+#enlaces-legales 
+li{display:inline-block;
+margin-right:10px}
+
+#listadoObjetivos 
+li{margin-bottom:15px}
+
+#contenedorFormulario
+{max-width:500px;
+margin:30px auto auto;
+background-image:url("../img/hoja.png");
+background-repeat:no-repeat;
+background-size:cover}
+
+.cuadroTexto
+{width:100%;
+margin-bottom:10px}
