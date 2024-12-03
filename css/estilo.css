@@ -52,7 +52,7 @@
 }
 
 /*Estilos para la sección principal*/
- article {
+ .article {
 	border: 1px solid #ccc;
 	background-color: #fff;
 	margin-bottom: 10px;
