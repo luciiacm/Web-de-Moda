@@ -59,7 +59,7 @@
 	padding: 10px;
 	border-radius: 30px;
 }
-img {
+.img {
 	transition: transform 0.5s ease, box-shadow 0.5s ease;
 }
 
