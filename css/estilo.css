@@ -59,9 +59,8 @@
 	padding: 10px;
 	border-radius: 30px;
 }
-.img {
-	transition: transform 0.5s ease, box-shadow 0.5s ease;
-}
+.img:hover {-webkit-transform: rotate(360deg);transform: rotate(360deg);}
+
 
 
 /*Estilos para el pie de página*/
